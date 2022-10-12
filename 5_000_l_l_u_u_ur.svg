@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="64" height="64" viewBox="0 -64 64 64">
+<defs>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d0">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d1">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d2">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d3">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d4">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d5">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+</defs>
+<rect x="0" y="-64" width="64" height="64" fill="black" />
+<path d="M12,0 L12,-41 L6,-44" stroke="white" stroke-width="2" fill="none" marker-end="url(#d0)" transform="rotate(0) translate(0 0)" />
+<path d="M22,0 L22,-41 L16,-44" stroke="white" stroke-width="2" fill="none" marker-end="url(#d1)" transform="rotate(0) translate(0 0)" />
+<path d="M32,0 L32,-51" stroke="white" stroke-width="2" fill="none" marker-end="url(#d2)" transform="rotate(0) translate(0 0)" />
+<path d="M42,0 L42,-51" stroke="white" stroke-width="2" fill="none" marker-end="url(#d3)" transform="rotate(0) translate(0 0)" />
+<path d="M52,0 L52,-51" stroke="white" stroke-width="2" fill="none" marker-end="url(#d4)" transform="rotate(0) translate(0 0)" />
+<path d="M52,0 L52,-41 L58,-44" stroke="white" stroke-width="2" fill="none" marker-end="url(#d5)" transform="rotate(0) translate(0 0)" />
+</svg>
