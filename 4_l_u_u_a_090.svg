@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink"
+     width="64" height="64" viewBox="0 -64 64 64">
+<defs>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d0">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d1">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+<marker markerWidth="4.0" markerHeight="4.0" viewBox="-0.1 -0.5 1.0 1.0" orient="auto" id="d2">
+<path d="M-0.1,0.5 L-0.1,-0.5 L0.9,0 Z" fill="white" />
+</marker>
+</defs>
+<rect x="0" y="-64" width="64" height="64" fill="black" />
+<path d="M14,0 L14,-41 L8,-44" stroke="white" stroke-width="2" fill="none" marker-end="url(#d0)" transform="rotate(90) translate(-64 0)" />
+<path d="M26,0 L26,-51" stroke="white" stroke-width="2" fill="none" marker-end="url(#d1)" transform="rotate(90) translate(-64 0)" />
+<path d="M38,0 L38,-51" stroke="white" stroke-width="2" fill="none" marker-end="url(#d2)" transform="rotate(90) translate(-64 0)" />
+<path d="M50,0 L50,-51" stroke="white" stroke-width="2" fill="none" transform="rotate(90) translate(-64 0)" />
+</svg>
